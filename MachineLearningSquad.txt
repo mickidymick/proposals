@@ -1,0 +1,11 @@
+Topic: Machine Learning
+
+Idea: Twitter Firefox Addon that analyzes tweets and guesses what the story the tweet is talking about then provides a link to one of those stories. *TENTATIVE*
+
+Members: 
+Jared Colburn - jcolbur1@vols.utk.edu
+Cody Bloodworth - kbloodw@vols.utk.edu
+Tanner Fry - tfry2@vols.utk.edu
+//ROOM FOR ONE MORE//
+
+
