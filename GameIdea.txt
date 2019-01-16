@@ -1,0 +1,6 @@
+Julian Ball
+Adam Tutko
+Dylan Lee
+Jeffrey McMichael
+
+Making a 2d pixel sidescroller, wave based survival combat game.
